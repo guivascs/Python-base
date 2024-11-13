@@ -17,4 +17,4 @@ for n1 in numeros:
         #print("{n1} x {n2} = {resultado}\n")
         print("{:^18}".format(f"{n1} x {n2} = {resultado}"))
     print()
-    print("#" * 18)
+    print("\U0001F600" * 18)
